@@ -24,4 +24,10 @@ Real-world Applications: LLMs have potential applications in areas like customer
 Bias and Fairness: LLMs trained on biased data can perpetuate harmful stereotypes and discriminatory practices. Addressing bias through careful data selection and model development is crucial.
 Misinformation and Explainability: The ability of LLMs to generate realistic text raises concerns about misinformation and the need for transparency in model outputs and decision-making processes.
 Accessibility and Openness: Access to LLMs and the data they use should be democratized to avoid exacerbating existing inequalities and encourage responsible development and application
+
 In conclusion, LLMs represent a significant step forward in the field of AI, opening up exciting possibilities for how we interact with technology and use language. However, it's important to acknowledge the challenges and ethical considerations associated with these powerful models and ensure their development and deployment are mindful of their potential impact on our world.
+
+Blogs and other information about LLMs
+
+1. The Inner Workings of LLMs: A Deep Dive into Language Model Architecture: https://www.analyticsvidhya.com/blog/2023/07/inner-workings-of-llms/
+2. A Comprehensive Guide to Fine-Tuning Large Language Models: https://www.analyticsvidhya.com/blog/2023/08/fine-tuning-large-language-models/#h-the-need-for-fine-tuning-llms
