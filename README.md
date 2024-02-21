@@ -31,3 +31,4 @@ Blogs and other information about LLMs
 
 1. The Inner Workings of LLMs: A Deep Dive into Language Model Architecture: https://www.analyticsvidhya.com/blog/2023/07/inner-workings-of-llms/
 2. A Comprehensive Guide to Fine-Tuning Large Language Models: https://www.analyticsvidhya.com/blog/2023/08/fine-tuning-large-language-models/#h-the-need-for-fine-tuning-llms
+3. Transfer Learning from Large Language Models (LLMs): https://maddevs.io/blog/transfer-learning-from-large-language-models/
